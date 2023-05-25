@@ -1,1 +1,3 @@
-# Polynomial_Optimization_CurveFitting
+# Polynomial Optimization CurveFitting
+
+This project is based on CCAR Labor data.
